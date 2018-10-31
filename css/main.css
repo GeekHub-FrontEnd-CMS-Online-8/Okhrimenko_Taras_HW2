@@ -1,0 +1,92 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+h1 {
+	font-size: 35px;
+}
+
+h2 {
+	font-size: 32px;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+h4 {
+	font-size: 12px;
+}
+
+p {
+	padding-bottom: 14px;
+	font-size: 22px;
+}
+
+ul, ol {
+	font-size: 22px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+article {
+	padding-top: 171px;
+	padding-right: 15%;
+	padding-bottom: 171px;
+	padding-left: 15%;
+}
+
+section h2, section h3 {
+	margin-top: 36px;
+	margin-bottom: 36px;
+}
+
+section p:last-child {
+	padding-bottom: 0;
+}
+
+img {
+	margin-right: 20px;
+	margin-bottom: 20px;
+}
+
+#heading {
+	text-align: center;
+}
+	#heading h1 {
+		margin-bottom: 26px;
+	}
+	#heading p {
+		font-size: 26px;
+	}
+	#heading h4 {
+		margin-top: 36px;
+		font-size: 20px;
+	}
+
+.bold {
+	font-weight: bold;
+}
+.underLine {
+	text-decoration: underline;
+}
+.ital {
+	font-style: italic;
+}
+
+.tcenter {
+	text-align: center;
+}
+
+.tright {
+	text-align: right;
+}
+
+.flLeft {
+	float: left;
+}
+
+#imgInDiv {
+	text-align: center;
+}
